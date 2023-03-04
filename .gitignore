@@ -5,3 +5,4 @@ tmp/*
 !tmp/.gitkeep
 .wwebjs_auth
 .package-look.json
+package-lock.json
